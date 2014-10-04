@@ -1,0 +1,13 @@
+!SESSION 2014-10-04 16:33:54.152 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -data /home/pgrant/development/rf/rfws -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-04 16:35:38.874
+!MESSAGE Indexed 'spi-api' (2 sources, 0 headers) in 1.74 sec: 76 declarations; 136 references; 16 unresolved inclusions; 16 syntax errors; 48 unresolved names (18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-10-04 16:41:05.280
+!MESSAGE Indexed 'lddrf24' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
